@@ -1,1 +1,1 @@
-secret_key = "fce23fd5d8msh418d5273508fee4p1ffe0cjsn0a61355c7fae"
+secret_key = ""
